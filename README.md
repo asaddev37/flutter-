@@ -48,7 +48,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 - 🔔 **Push Notifications** – Real-time order status updates
 - 📈 **Reports & Analytics** – Monthly revenue and order status insights
 
-**Key Tech:** Flutter, Riverpod, Hive, PDF Generation, Push Notifications
+**Key Tech:** Flutter, Riverpod, Hive, PDF Generation, Push Notifications:
 
 ---
 
